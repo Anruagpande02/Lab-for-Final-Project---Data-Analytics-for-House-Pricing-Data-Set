@@ -155,7 +155,7 @@ Execute all cells sequentially (`Cell → Run All`) to reproduce the full analys
 
 <div align="center">
 
-**👤 Author: [Rutul Raval](https://github.com/rutulraval)** · IBM Data Science Certified · SDET
+**👤 Author: [Anurag Pande](https://github.com/Anuragpande02)** · IBM Data Science Certified · SDET
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,9,15&height=100&section=footer" width="100%"/>
 
